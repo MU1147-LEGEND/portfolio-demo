@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import img from "../assets/profile.jpg";
-import resume from "../assets/mohammadullah-frontend-resume.pdf";
+import resume from "../assets/Front-End-Developer-resume.pdf";
 
 const Home = () => {
   return (
