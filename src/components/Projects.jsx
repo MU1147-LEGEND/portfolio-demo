@@ -3,16 +3,16 @@ import React from "react";
 const Projects = () => {
   const projects = [
     {
-      title: "Project 1",
-      description: "A brief description of your project.",
-      demo: "#",
-      code: "#",
+      title: "Divestic - A Simple UI Application ",
+      description: "Divestic is a simple and clean UI application designed for efficient user interaction. It offers a minimalistic interface, smooth navigation, and essential features, making it ideal for beginners and developers seeking inspiration for intuitive frontend design.",
+      demo: "https://divestic.vercel.app/",
+      code: "https://github.com/MU1147-LEGEND/Divestic",
     },
     {
-      title: "Project 2",
-      description: "A brief description of your project.",
-      demo: "#",
-      code: "#",
+      title: "Burger Shop",
+      description: "Burger Shop is a simple, responsive webpage built with HTML and CSS. It features a clean layout, attractive design, and is perfect for showcasing a small fast-food or burger business online",
+      demo: "http://mohammadullah.me/Radiance-Copy/",
+      code: "https://github.com/MU1147-LEGEND/Radiance-Copy",
     },
   ];
 
